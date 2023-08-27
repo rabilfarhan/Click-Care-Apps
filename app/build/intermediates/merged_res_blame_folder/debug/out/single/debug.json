@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_top_bottom.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\border_top_bottom.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container_received_message.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus_circle_outline.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\plus_circle_outline.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_news_bg.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\card_news_bg.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list_chat_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_list_chat_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_border.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\image_border.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_button_star_consultant.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\button_star_consultant.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_sent_message.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\background_sent_message.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_alert_danger.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\card_alert_danger.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container_user.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_antrian.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\card_antrian.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\font_inter_regular.ttf.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\font\\inter_regular.ttf"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph2.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_permission_alert.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\permission_alert.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_gopay.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\gopay.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.ttf.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password2.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_forgot_password2.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_online_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\online_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_sheet_bacground.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\bottom_sheet_bacground.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_star_review.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\star_review.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_registrasi.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_detail_registrasi.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_detail_doctor.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\fragment_detail_doctor.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_regular.ttf.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_icon_pic.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_icon_pic.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_google.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\icon_google.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_success_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\success_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_user_login.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\fragment_home_user_login.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat_form_input.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\chat_form_input.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container_recent_conversion.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\item_container_recent_conversion.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_alert.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\card_alert.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_start_end_radius.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\start_end_radius.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_border.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_profile.jpg.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_profile.jpg"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor_1.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\doctor_1.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_pipe_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\pipe_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\menu_navigation_drawer.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_feedback_doctor_fragement.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\fragment_feedback_doctor_fragement.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_parent_four.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_parent_four.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list_chat_pasien_two.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_list_chat_pasien_two.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_call_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\call_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sending_chat.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\sending_chat.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_no_login_user.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\fragment_home_no_login_user.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\font_inter_medium.ttf.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\font\\inter_medium.ttf"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_calendar_minus.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\calendar_minus.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_parent_two.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_parent_two.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor_2.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\doctor_2.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_map_dummy.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\map_dummy.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_news.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_message_writing.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\message_writing.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_change_user_password.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\change_user_password.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_map_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\map_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\font_inter_semibold.ttf.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\font\\inter_semibold.ttf"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_poli_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_poli_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_parent_three.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_parent_three.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_onboarding.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_custome_button_stars.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\custome_button_stars.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_value_two.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_value_two.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_loading.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_ios_24_2.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24_2.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_change_profile_user.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\change_profile_user.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_lock.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_lock.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_value_three.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_value_three.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_register_bottom_sheet.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\register_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\color_bottom_nav_color.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\color\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_notif_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\notif_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_secondary.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\button_secondary.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_doctor_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_calendar.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_info_square.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\info_square.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_content_top.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\background_content_top.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_start_end_radius_two.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\start_end_radius_two.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_header_navigation_drawer.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\header_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_semibold.ttf.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_consultant.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_doctor_consultant.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_value_one.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_value_one.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_alt_minus.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\home_alt_minus.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_check_box_custome.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\check_box_custome.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_receiving_chat.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\receiving_chat.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_primary.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\button_primary.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_health_supplement.jpg.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\health_supplement.jpg"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sending_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\sending_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_profile_default_picture.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_profile_default_picture.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bri.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\bri.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_button_consultant.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\button_consultant.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_home_section.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\button_home_section.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_document_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\document_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_feedback_doctor_alert.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\feedback_doctor_alert.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_container_home_section.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\container_home_section.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_setting_doctor.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\setting_doctor.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_info_app.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_info_app.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_content_forgot_password.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\content_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\lock_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_parent.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_parent.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_filter_button.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\filter_button.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_setting_user.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\fragment_setting_user.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_health_food.jpg.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\health_food.jpg"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_antrian_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_antrian_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_change_language_user.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\change_language_user.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_content_bottom.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\background_content_bottom.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_received_message.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\background_received_message.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor_4.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\doctor_4.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_register_activity.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_register_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_onboarding_image.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\onboarding_image.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_chat_input.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\background_chat_input.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_doctor.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\button_doctor.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_dana.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\dana.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container_sent_message.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_chat_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_info_24_danger.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_info_24_danger.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main_doctor.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\menu\\menu_main_doctor.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_header.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\logo_header.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_image.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_success_alert.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\success_alert.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_calender_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\calender_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_icon.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_notification.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_login_bottom_sheet.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\login_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_widget_check.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\widget_check.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_no_login_profile.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_no_login_profile.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_form_user_input.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\form_user_input.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_book_antrian_pasien.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\fragment_book_antrian_pasien.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_doctor.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_detail_doctor.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_buah_1.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\buah_1.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_doctor_list.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\doctor_list.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor_3.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\doctor_3.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_icon_complete.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\app_icon_complete.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_mail_icon.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\mail_icon.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_review.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_review.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_tele.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_tele.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_language.png.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\drawable\\user_language.png"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_paymen_gateway.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\activity_paymen_gateway.xml"
+    },
+    {
+        "merged": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_value_four.xml.flat",
+        "source": "D:\\College\\Kampus Merdeka\\BATCH 2\\Massive Project\\clickcare-macro-project-ndp\\app\\src\\main\\res\\layout\\layout_value_four.xml"
+    }
+]
